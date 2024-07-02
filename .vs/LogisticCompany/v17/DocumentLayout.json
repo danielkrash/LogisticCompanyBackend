@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RiderProjects\\LogisticCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\data\\logisticcompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\data\\logisticcompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\migrations\\logisticcompanycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\migrations\\logisticcompanycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|e:\\riderprojects\\logisticcompany\\logisticcompany\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77614A7-5082-4B6C-8A8A-0557A539AF11}|LogisticCompany\\LogisticCompany.csproj|solutionrelative:logisticcompany\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\20240530222139_AddEmployeePositionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogisticCompany\\Migrations\\20240530222139_AddEmployeePositionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\20240526131056_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogisticCompany\\Migrations\\20240526131056_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\controllers\\CompanyController.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\controllers\\CompanyController.cs*",
+              "RelativeToolTip": "LogisticCompany\\controllers\\CompanyController.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwFYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:13:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240530222139_AddEmployeePositionTable.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\20240530222139_AddEmployeePositionTable.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\Migrations\\20240530222139_AddEmployeePositionTable.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\20240530222139_AddEmployeePositionTable.cs",
+              "RelativeToolTip": "LogisticCompany\\Migrations\\20240530222139_AddEmployeePositionTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:27:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240526131056_InitialCreate.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\20240526131056_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\Migrations\\20240526131056_InitialCreate.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\20240526131056_InitialCreate.cs",
+              "RelativeToolTip": "LogisticCompany\\Migrations\\20240526131056_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:20:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\models\\Employee.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\Employee.cs",
+              "RelativeToolTip": "LogisticCompany\\models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:12:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogisticcompanyContext.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\data\\LogisticcompanyContext.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\data\\LogisticcompanyContext.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\data\\LogisticcompanyContext.cs",
+              "RelativeToolTip": "LogisticCompany\\data\\LogisticcompanyContext.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:44:46.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Position.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\Position.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\models\\Position.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\Position.cs",
+              "RelativeToolTip": "LogisticCompany\\models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:35:19.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogisticcompanyContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\LogisticcompanyContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\Migrations\\LogisticcompanyContextModelSnapshot.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Migrations\\LogisticcompanyContextModelSnapshot.cs",
+              "RelativeToolTip": "LogisticCompany\\Migrations\\LogisticcompanyContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:35:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\Company.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\models\\Company.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\Company.cs",
+              "RelativeToolTip": "LogisticCompany\\models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:35:04.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\models\\ApplicationUser.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\models\\ApplicationUser.cs",
+              "RelativeToolTip": "LogisticCompany\\models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:35:03.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\Program.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\Program.cs",
+              "RelativeToolTip": "LogisticCompany\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:06:28.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\DTOs\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "LogisticCompany\\DTOs\\CompanyDto.cs",
+              "ToolTip": "E:\\RiderProjects\\LogisticCompany\\LogisticCompany\\DTOs\\CompanyDto.cs",
+              "RelativeToolTip": "LogisticCompany\\DTOs\\CompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:06:19.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
