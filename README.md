@@ -78,5 +78,3 @@ For any questions or inquiries, feel free to contact the project maintainer:
 - **GitHub**: [danielkrash](https://github.com/danielkrash)
 
 ---
-
-Would you like me to include additional sections, such as a detailed API documentation placeholder, deployment instructions, or testing setup?
