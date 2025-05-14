@@ -1,7 +1,3 @@
-Here’s a suggested README.md file for your repository, **LogisticCompanyBackend**, based on its name and the fact it's written entirely in C#. If you'd like to customize or add more details, let me know!
-
----
-
 # LogisticCompanyBackend
 
 Welcome to the **LogisticCompanyBackend** repository! This project is designed to provide the backend services for a logistics company, handling functionalities such as shipment tracking, order management, and other logistics operations.
