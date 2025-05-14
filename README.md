@@ -12,9 +12,8 @@ Welcome to the **LogisticCompanyBackend** repository! This project is designed t
 ## Technologies Used
 
 - **Language**: C#
-- **Framework**: (Specify if you're using frameworks like ASP.NET Core)
-- **Database**: (Specify the database, e.g., SQL Server, MySQL, etc.)
-- **Others**: (Include any other tools or libraries used)
+- **Framework**: ASP.NET Core minimal API
+- **Database**: PostgreSQL
 
 ## Getting Started
 
